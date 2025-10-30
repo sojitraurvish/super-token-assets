@@ -1,5 +1,8 @@
 {
-    "name": "Super Token",
-    "symbol": "SUPER",
-    "image": "https://raw.githubusercontent.com/sojitraurvish/super-token-assets/main/super-token.png"
+  "name": "Super Token",
+  "symbol": "SUPER",
+  "description": "A super token built on Solana",
+  "image": "https://raw.githubusercontent.com/sojitraurvish/super-token-assets/main/super-token.png",
+  "website": "https://your-website.com",
+  "tags": ["defi", "utility"]
 }
